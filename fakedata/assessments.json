@@ -1,0 +1,6 @@
+[
+  {"name": "Midterm", "weight": 0.3},
+  {"name": "Final Exam", "weight": 0.3},
+  {"name": "Homework 1", "weight": 0.1},
+  {"name": "Homework 2", "weight": 0.1}
+]
